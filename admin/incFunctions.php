@@ -449,6 +449,8 @@
 	########################################################################
 	function getCSVData($tn, $pkValue, $stripTags=true){
 		// get pk field name for given table
+		$csvFieldList = ''; // Asegúrate de que sea una cadena vacía
+
 		if(!$pkField=getPKFieldName($tn)){
 			return "";
 		}

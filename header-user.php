@@ -46,7 +46,7 @@
         </button>
 
         <a class="navbar-brand logo" href="index.php" style="color: white">
-           <h4><strong>MorgueManagement</strong></h4>
+           <h4><strong>FunerariaPlus</strong></h4>
         </a>
 
         <div class="collapse navbar-collapse" id="navbarNav">

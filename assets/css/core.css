@@ -35,7 +35,7 @@
   color: #398DBD; }
 
 .text-primary-3 {
-  color: #2380B6; }
+  color: #34495e ; }
 
 .text-primary-4 {
   color: #0E74AF; }
@@ -263,7 +263,7 @@ button {
   margin-bottom: 0;
   border-width: 1px 0;
   padding: 0;
-  background-color: #2380B6;
+  background-color: #34495e ;
   color: #fff; }
   @media (min-width: 992px) {
     .navbar {
